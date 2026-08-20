@@ -1,6 +1,6 @@
-# Flying Frog 404 Flying Frog page
+# Flying Frog 404 Error Page
 
-This page can be used to indicate there is an error on a page!!
+This page can be used to indicate there is an error on a page in a website!!
 
 I can use this and add them to different websites I make.
 
