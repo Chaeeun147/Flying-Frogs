@@ -1,0 +1,38 @@
+html{
+    padding: 20px;
+    background-image: url("flying frog background.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body {
+    background-color: rgba(58, 116, 81, 0.7);
+    min-height: 100vh;
+    margin: 0;
+}
+
+.credits {
+    color: white;
+    font-size 20px;
+}
+
+.bounce {
+    position: absolute;
+    will-change: left, top;
+    cursor: pointer;
+}
+
+.bounce:hover {
+  transform: scale(1.05);
+}
+
+.motivation bounce {
+    position: absolute;
+    will-change: left, top;
+    cursor: pointer;
+}
+
+.motivation bounce:hover {
+  transform: scale(1.05);
+}
