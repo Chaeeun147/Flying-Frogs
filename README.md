@@ -10,5 +10,5 @@ Demo it <a href="https://chaeeun147.github.io/Flying-Frogs/">here</a>!
 
 ## Credits & Acknowledgements
 
-* **[Flying Frogs Javascript Animation]** - [possiblyselena](https://github.com/possiblyselena)
+* **[Flying Frogs JavaScript Animation]** - [possiblyselena](https://github.com/possiblyselena)
   * Link to source: [urspace](https://github.com/possiblyselena/urspace)
